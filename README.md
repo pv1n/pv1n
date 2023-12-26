@@ -6,7 +6,7 @@
 
 
 <h3 align="left">📖 Continuous learning: 📖</h3>
-<p>Currently focused on enhancing skills in Red Teaming and Pentesting, staying updated with the latest industry practices and techniques.👾</p>
+<p>Currently focused on learning new pentesting techniques. Focused on obtaining new certifications, looking for eCPPTv2 and OSCP.👾</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
