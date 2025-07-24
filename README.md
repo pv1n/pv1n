@@ -6,7 +6,7 @@
 
 
 <h3 align="left">📖 Continuous learning: 📖</h3>
-<p>Currently focused on learning new pentesting techniques. Focused on obtaining new certifications, looking for eCPPTv3 and OSCP.👾</p>
+<p>Currently focused on learning new pentesting techniques. Focused on obtaining new certifications, looking for OSCP.👾</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
