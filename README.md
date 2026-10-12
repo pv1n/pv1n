@@ -1,4 +1,4 @@
-<h1 align="center">👺Christopher Gómez (Aka. pv1n)👺</h1>
+<h1 align="center">👺Christopher Gómez👺</h1>
 <h3 align="center">Junior Pentester living in Chile, specialized in identifying and exploiting vulnerabilities. Passionate about uncovering what remains hidden to the naked eye.</h3>
 
 <h3 align="left">Languages ​​and tools I hack with:</h3>
